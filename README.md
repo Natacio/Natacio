@@ -23,5 +23,5 @@
           
  
  
- ![Snake animation](https://github.com/natacio/natacio/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Natacio/Natacio/blob/output/github-contribution-grid-snake.svg)
 </div>
