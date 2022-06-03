@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Me chamo Natácio , seja bem vindo(a) ao meu perfil! 
 
 - 🔭 Hoje atuo como programador júnior 
-- 🌱 Estudando React, Node e arquitetura de software.
+- 🌱 Atualmente Estudando Java,React e arquitetura de software.
 - 😄 Pronomes: Ele/Dele
 
  <div>
