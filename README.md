@@ -1,6 +1,6 @@
 ## Olá, tudo bem? Me chamo Natácio , seja bem vindo(a) ao meu perfil! 
 
-- 🔭 Hoje atuo como programador júnior 
+- 🔭 Hoje atuo como analista de suporte na Condomob 
 - 🌱 Atualmente Estudando Java,React e arquitetura de software.
 - 😄 Pronomes: Ele/Dele
 
